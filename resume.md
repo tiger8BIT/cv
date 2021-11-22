@@ -3,7 +3,7 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <vyacheslav.kolodynskiy@gmail.com>
+- <kolodynskiy.vyacheslav@gmail.com>
 - (29) 897-96-33
 - Vitebsk, Belarus
 
