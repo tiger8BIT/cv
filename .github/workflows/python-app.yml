@@ -27,6 +27,7 @@ jobs:
     - name: Run resume.py
       run: |
         python resume.py --no-pdf
+    - uses: actions/checkout@v1
     - name: check for changes
       run: git status
     - name: stage changed files
