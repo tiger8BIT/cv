@@ -24,7 +24,7 @@
 
 Built microservices for banking domain software
 
-Used <span class="colored">Java 17, Spring Boot, Guava</span>
+Used <span class="colored">Java 17, Spring Boot</span>
 
 - Developed <span class="tech">Kafka</span> producers and consumers. Provided Transactional outbox pattern by using <span class="tech">Debezium</span>.
 - Implemented <span class="tech">AWS SQS</span> producers and consumers. Configured Fifo queries.
@@ -36,7 +36,7 @@ Used <span class="colored">Java 17, Spring Boot, Guava</span>
 
 Built Self-storages management platform
 
-Used <span class="colored">Java 11, Spring Boot, TypeScript, React, Google Cloud Platform, Docker, Selenium</span>
+Used <span class="colored">Java 11, Spring Boot, TypeScript, React</span>
 
 - Created project's architecture from scratch. Used <span class="tech">Spring Boot, Gradle, Java</span>.
 - Developed custom search language by using <span class="tech">Querydsl, JPA and Java Reflection<span/>.
