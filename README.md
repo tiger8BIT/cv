@@ -1,0 +1,1 @@
+[Resume View](https://htmlpreview.github.io/?https://github.com/tiger8BIT/cv/blob/master/resume.html)
