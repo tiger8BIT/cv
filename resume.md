@@ -4,6 +4,7 @@
 - <kolodynskiy.vyacheslav@gmail.com>
 - (59) 120-14-32
 - Batumi, Georgia
+- test
 
 
 **Full Stack developer** with **3 years of experience** in development of rest web-services with **Java, Spring** and websites with JavaScript, TypeScript, Vue, React.
