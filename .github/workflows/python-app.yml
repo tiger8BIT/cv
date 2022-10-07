@@ -27,7 +27,10 @@ jobs:
     - name: Run resume.py
       run: |
         python resume.py --no-pdf
-    - uses: actions/checkout@v1
+    - name: configure git authority
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
     - name: check for changes
       run: git status
     - name: stage changed files
